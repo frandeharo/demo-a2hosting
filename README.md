@@ -23,9 +23,8 @@ Mediante el gestor de paquetes pip realizar la instalación de los paquetes nece
 
 ## Configuarar variables de entorno
 
-Solo se ha definido una variable de entorno como prueba para controlar el modo debug
 
-Copiamos el fichero env.TEMPLATE a .env
+Copiamos el fichero env.TEMPLATE a .env y configuramos las variables
 
 ```
     cp env.TEMPLATE .env
